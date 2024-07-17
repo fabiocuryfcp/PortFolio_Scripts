@@ -6,4 +6,6 @@ Projetos para portfolio e compartilhar conhecimento:
 
 3. CriarQRCode.py - Programa para criação de QR Codes a partir de um site.
 
-4. Remover_Fundo.py - Programa para remover fundo de fotos 
+4. Remover_Fundo.py - Programa para remover fundo de fotos
+
+5. TxtToSpeech - Programa que cria audio a partir de texto escrito
