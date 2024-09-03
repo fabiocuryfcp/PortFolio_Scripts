@@ -9,3 +9,5 @@ Projetos para portfolio e compartilhar conhecimento:
 4. Remover_Fundo.py - Programa para remover fundo de fotos
 
 5. TxtToSpeech - Programa que cria audio a partir de texto escrito
+
+6. Projeto_POO_Restaurante - Cria um menu de restaurante utilizando classes
