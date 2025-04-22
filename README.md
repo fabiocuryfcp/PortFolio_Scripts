@@ -11,3 +11,5 @@ Projetos para portfolio e compartilhar conhecimento:
 5. TxtToSpeech - Programa que cria audio a partir de texto escrito
 
 6. Projeto_POO_Restaurante - Cria um menu de restaurante utilizando classes
+
+7. Dashboard de tradução das principais funções de reshape de dados
