@@ -13,3 +13,5 @@ Projetos para portfolio e compartilhar conhecimento:
 6. Projeto_POO_Restaurante - Cria um menu de restaurante utilizando classes
 
 7. Dashboard de tradução das principais funções de reshape de dados
+
+8. Criação de matriz 9 Box para análise de performance de RH
