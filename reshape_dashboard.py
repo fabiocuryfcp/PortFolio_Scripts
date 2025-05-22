@@ -41,10 +41,10 @@ data = [
     },
     {
         "Conceito": "Mesclar dados (juntar colunas)",
-        "Python": "pd.merge(df1, df2, on='coluna', how='tipo')",
+        "Python": "pd.merge(df1, df2, on='coluna', how='tipo(left/right/inner/outer)')",
         "Excel": "VLOOKUP/XLOOKUP ou MERGE no Power Query",
         "Power BI": "Merge Queries",
-        "SQL": "SELECT * FROM tabela1 JOIN tabela2 ON tabela1.col = tabela2.col",
+        "SQL": "SELECT * FROM tabela1 LEFT JOIN tabela2 ON tabela1.col = tabela2.col",
         "Uso": "Une datasets com base em colunas-chave.",
         "Palavras-chave": "merge, join, lookup, relacionar"
     },
